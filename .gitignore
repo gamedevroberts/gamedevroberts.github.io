@@ -1,0 +1,5 @@
+# Windows thumbnail cache files
+Thumbs.db
+
+# Ensure I do not accidentally commit the php files from the old site.
+*.php
